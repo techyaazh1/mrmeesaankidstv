@@ -31,6 +31,9 @@ export default function Home() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-black via-gray-900 to-gray-800 text-white px-4">
+      <h2 className="tracking-widest text-gray-300 mb-4 text-2xl md:text-4xl text-center">
+          mrmeesaankidstv
+        </h2>
       
       {/* Logo / Title */}
       <h1 className="text-4xl md:text-6xl font-bold mb-4 text-center">
